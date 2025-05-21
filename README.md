@@ -1,2 +1,3 @@
 # Car-Showroom-Management-System
-OOPS project
+OOPS project (only run on terminal)
+
